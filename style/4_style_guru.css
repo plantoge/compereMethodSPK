@@ -1,0 +1,62 @@
+/*==============================================================================================*/
+/*|												STYLE SHOW 										*/
+/*==============================================================================================*/
+table {
+	border-collapse: collapse;
+}
+tr, th, td {
+	border : 1px solid black; 
+}
+
+th {padding: 10px;}
+td {padding: 10px;}
+
+.tne {
+	background-color:  #E0072B;
+	border : 2px solid #343434;
+	color : white;
+	box-sizing: border-box;
+}
+
+	/*STYLE UNTUK BAGIAN TOMBOL PRINT DI TAG (DIV UL LI A)*/
+	.menu_print {
+		/*border : 1px solid black;	*/
+		margin-top: 10px;
+	}
+	.menu_print::after {
+		content: "";
+	    clear: both;
+	    display: table;
+	}
+		.menu_print ul  {
+			list-style-type: none;
+			margin : 0;
+			padding: 0;
+			/*border : 1px solid black;*/
+		}
+		.menu_print li {
+			display: block;
+			float: left;
+		}
+		.menu_print li a {
+			text-decoration: none;
+			display: block;
+			padding: 10px;
+			color : #343434;
+		}
+			.menu_print li a:hover {
+				color: #E0072B;
+			}
+
+
+
+/*==============================================================================================*/
+/*|												STYLE INPUT										*/
+/*==============================================================================================*/
+
+
+
+
+/*==============================================================================================*/
+/*|												STYLE EDIT										*/
+/*==============================================================================================*/

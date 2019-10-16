@@ -1,0 +1,5 @@
+[30-May-2018 08:35:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/skrj3885/public_html/function/function.php on line 23
+[30-May-2018 08:35:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/skrj3885/public_html/function/function.php on line 23
+[30-May-2018 08:35:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/skrj3885/public_html/function/function.php on line 23
+[30-May-2018 08:35:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/skrj3885/public_html/function/function.php on line 23
+[30-May-2018 08:35:34 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/skrj3885/public_html/function/function.php on line 23

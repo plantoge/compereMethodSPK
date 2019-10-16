@@ -1,0 +1,2 @@
+[30-May-2018 08:20:09 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/skrj3885/public_html/function/function.php on line 12
+[30-May-2018 08:33:08 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/skrj3885/public_html/function/function.php on line 12
